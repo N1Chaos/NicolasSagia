@@ -28,7 +28,7 @@ Compétences : Advanced Analytics, Interviewing Skills, Data Analysis, Data Ethi
 
 🛠 Projets
   
-Commentaire d'écoute musicale : https://n1chaos.github.io/Commentaire-Ecoute-082025/
+Commentaire d'écoute musicale : https://n1chaos.github.io/Commentaire-Ecoute-082025/](https://n1chaos.github.io/maitrise-de-la-langue/parcem/index.html
 Application interactive pour aider les élèves à rédiger et enregistrer leur commentaire d’écoute musicale :
 
 - Sélection de vocabulaire guidée
